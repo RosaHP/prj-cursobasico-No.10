@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simon Dice</string>
+    <string name="reir">Reir</string>
+    <string name="hablar">Hablar</string>
+    <string name="jugar">Jugar</string>
+    <string name="ver">Ver</string>
+    <string name="escuchar">Escuchar</string>
+    <string name="facil">Fácil</string>
+    <string name="intermedio">Intermedio</string>
+    <string name="dificil">Difícil</string>
+
+</resources>
